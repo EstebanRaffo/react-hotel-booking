@@ -7,3 +7,8 @@ As any project bootstraped with [Create React App](https://github.com/facebook/c
 ### `yarn start`
 
 to run the app in development mode and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Things to consider
+-There're a couple of things to refactor in this proyect
+>Convert stateless components to pure functions
+>Implement Container/HOC pattern
